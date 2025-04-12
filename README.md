@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentence Construction Quiz App
 
 A modern, interactive quiz application built with React and TypeScript that helps users practice sentence construction with engaging animations and a user-friendly interface.
@@ -159,3 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - [@yourusername](https://twitter.com/yourusername)
 
 Project Link: [https://github.com/yourusername/sentence-construction-project](https://github.com/yourusername/sentence-construction-project)
+=======
+# Sentance_Construction_Tool
+A fully functional and interactive sentence construction web application built with React + Vite, Tailwind CSS, and optionally TypeScript and shadcn/ui. This project was created as part of the CA MONK Frontend Internship Assignment and simulates a sentence completion test with word options, a timer, score tracking, and feedback screen.
+>>>>>>> e0415cd498acbcd8037908ca4d9e1921af294d12
