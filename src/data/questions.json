@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The cat ___ on the windowsill.",
+      "options": ["sat", "jumped", "slept", "walked"],
+      "correctAnswer": "sat"
+    },
+    {
+      "id": 2,
+      "sentence": "She ___ her homework before dinner.",
+      "options": ["finished", "started", "wrote", "copied"],
+      "correctAnswer": "finished"
+    },
+    {
+      "id": 3,
+      "sentence": "The sun ___ brightly in the sky.",
+      "options": ["shone", "moved", "fell", "disappeared"],
+      "correctAnswer": "shone"
+    },
+    {
+      "id": 4,
+      "sentence": "The children ___ in the park.",
+      "options": ["played", "studied", "slept", "ate"],
+      "correctAnswer": "played"
+    },
+    {
+      "id": 5,
+      "sentence": "He ___ the door carefully.",
+      "options": ["opened", "broke", "painted", "fixed"],
+      "correctAnswer": "opened"
+    },
+    {
+      "id": 6,
+      "sentence": "The bird ___ through the sky.",
+      "options": ["flew", "ran", "hopped", "crawled"],
+      "correctAnswer": "flew"
+    },
+    {
+      "id": 7,
+      "sentence": "They ___ to the music all night.",
+      "options": ["danced", "listened", "talked", "walked"],
+      "correctAnswer": "danced"
+    },
+    {
+      "id": 8,
+      "sentence": "The teacher ___ the lesson clearly.",
+      "options": ["explained", "wrote", "read", "finished"],
+      "correctAnswer": "explained"
+    },
+    {
+      "id": 9,
+      "sentence": "The dog ___ at the mailman.",
+      "options": ["barked", "jumped", "looked", "ran"],
+      "correctAnswer": "barked"
+    },
+    {
+      "id": 10,
+      "sentence": "We ___ dinner at the new restaurant.",
+      "options": ["enjoyed", "cooked", "ordered", "ate"],
+      "correctAnswer": "enjoyed"
+    },
+    {
+      "id": 11,
+      "sentence": "The wind ___ through the trees.",
+      "options": ["whistled", "moved", "danced", "rushed"],
+      "correctAnswer": "whistled"
+    },
+    {
+      "id": 12,
+      "sentence": "The students ___ their exams last week.",
+      "options": ["completed", "started", "failed", "missed"],
+      "correctAnswer": "completed"
+    },
+    {
+      "id": 13,
+      "sentence": "The chef ___ a delicious meal.",
+      "options": ["prepared", "tasted", "served", "bought"],
+      "correctAnswer": "prepared"
+    },
+    {
+      "id": 14,
+      "sentence": "The audience ___ at the end of the show.",
+      "options": ["applauded", "shouted", "left", "stood"],
+      "correctAnswer": "applauded"
+    },
+    {
+      "id": 15,
+      "sentence": "The flowers ___ in the spring.",
+      "options": ["bloomed", "grew", "died", "fell"],
+      "correctAnswer": "bloomed"
+    },
+    {
+      "id": 16,
+      "sentence": "The athlete ___ the finish line.",
+      "options": ["crossed", "reached", "saw", "touched"],
+      "correctAnswer": "crossed"
+    },
+    {
+      "id": 17,
+      "sentence": "The painter ___ a beautiful landscape.",
+      "options": ["created", "saw", "liked", "bought"],
+      "correctAnswer": "created"
+    },
+    {
+      "id": 18,
+      "sentence": "The baby ___ peacefully in the crib.",
+      "options": ["slept", "cried", "played", "moved"],
+      "correctAnswer": "slept"
+    },
+    {
+      "id": 19,
+      "sentence": "The scientist ___ an important discovery.",
+      "options": ["made", "published", "announced", "shared"],
+      "correctAnswer": "made"
+    },
+    {
+      "id": 20,
+      "sentence": "The waves ___ against the shore.",
+      "options": ["crashed", "moved", "rolled", "splashed"],
+      "correctAnswer": "crashed"
+    }
+  ]
+} 
